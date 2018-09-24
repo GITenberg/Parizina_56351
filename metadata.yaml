@@ -1,0 +1,32 @@
+_repo: Parizina_56351
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Silva, Venancio Da
+    gutenberg_agent_id: '48796'
+    url: http://www.gutenberg.org/2009/agents/48796
+creator:
+  author:
+    agent_name: Byron, George Gordon Byron, Baron
+    aliases:
+    - Byron, George Gordon Noël Byron, Baron
+    - Byron, George Gordon Noel Byron, Baron
+    birthdate: 1788
+    deathdate: 1824
+    gutenberg_agent_id: '1708'
+    url: http://www.gutenberg.org/2009/agents/1708
+    wikipedia: http://en.wikipedia.org/wiki/George_Gordon_Byron,_6th_Baron_Byron
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2018-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56351'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Parizina
+url: http://www.gutenberg.org/ebooks/56351
